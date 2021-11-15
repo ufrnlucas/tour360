@@ -1,0 +1,14 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
+
+## Media
+
+### Title
+panorama_14F6A465_1FA0_5FAD_41AE_37285481A8E9.label = Sem nome_Cena2
+video_12CB59AE_1FA0_28BE_41AD_1CE8723F91ED.label = IMPROCESSO 5
